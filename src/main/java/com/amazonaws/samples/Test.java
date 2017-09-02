@@ -10,5 +10,7 @@ public class Test {
 		System.out.println("Test5");
 		System.out.println("Test-BUG102");
 		System.out.println("Test-FEATURE01");
+		System.out.println("Test-master");
+		System.out.println("Test-master2");
 	}
 }
