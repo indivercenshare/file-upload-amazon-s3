@@ -13,5 +13,7 @@ public class Test {
 		System.out.println("Test-master");
 		System.out.println("Test-master2");
 		System.out.println("Test-feature01");
+		System.out.println("Test-feature02");
+		System.out.println("Test-feature03");
 	}
 }
