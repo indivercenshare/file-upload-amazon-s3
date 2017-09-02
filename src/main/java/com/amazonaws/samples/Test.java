@@ -17,5 +17,7 @@ public class Test {
 		System.out.println("Test-feature03");
 		System.out.println("Test-feature04");
 		System.out.println("Test-feature05");
+		System.out.println("Test-featuream1");
+		System.out.println("Test-featuream2");
 	}
 }
