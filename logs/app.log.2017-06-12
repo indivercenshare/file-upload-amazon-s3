@@ -1,0 +1,162 @@
+2017-06-12 22:10:22 INFO  AmazonS3FileUploader:170 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-06-12 22:10:31 INFO  AmazonS3FileUploader:188 - You have choosen time unit in Seconds
+2017-06-12 22:10:31 INFO  AmazonS3FileUploader:189 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-06-12 22:10:35 INFO  AmazonS3FileUploader:213 - Please Enter Destination Path
+2017-06-12 22:11:56 INFO  AmazonS3FileUploader:213 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-06-12 22:12:01 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:236 - 
+==============================UPLOADING FILES==============================
+
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:238 - CHECKING ACCESS KEY
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:244 - 			AKIAJSVEZJ473PNAVRHA
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:246 - CHECKING SECRET ACCESS KEY
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:252 - 		DCxi6sDrkK0srHOLCPPBrek9YE6L2WFZyvA+b18a
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:254 - CHECKING BUCKET NAME
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:260 - 			harish
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:262 - CHECKING FILE/FOLDER PATH
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:268 - 		/Users/ink/Desktop/ZIP
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:270 - CHECKING REGION
+2017-06-12 22:12:01 INFO  AmazonS3FileUploader:296 - 				us-east-1
+2017-06-12 22:12:02 WARN  AmazonHttpClient:172 - Detected a possible problem with the current JVM version (1.6.0_65).  If you experience XML parsing problems using the SDK, try upgrading to a more recent JVM update.
+2017-06-12 22:12:07 INFO  AmazonS3FileUploader:319 - Creating New Bucket===>>harish
+2017-06-12 22:12:10 INFO  AmazonS3FileUploader:213 - Sorry Bucket harish is already Exist.Please Enter Other Name
+2017-06-12 22:12:20 INFO  AmazonS3FileUploader:319 - Creating New Bucket===>>MANOHAR
+2017-06-12 22:12:22 ERROR AmazonS3FileUploader:333 - Bucket name should not contain uppercase characters
+2017-06-12 22:12:22 INFO  AmazonS3FileUploader:77 - Uploading File========1364153.zip At location 1364153.zip
+2017-06-12 22:12:23 ERROR UploaderTask:50 - The specified bucket does not exist (Service: Amazon S3; Status Code: 404; Error Code: NoSuchBucket; Request ID: EAB36515863D7647)
+2017-06-12 22:12:59 INFO  AmazonS3FileUploader:170 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-06-12 22:13:02 INFO  AmazonS3FileUploader:188 - You have choosen time unit in Seconds
+2017-06-12 22:13:02 INFO  AmazonS3FileUploader:189 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-06-12 22:13:04 INFO  AmazonS3FileUploader:213 - Please Enter Destination Path
+2017-06-12 22:13:10 INFO  AmazonS3FileUploader:213 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-06-12 22:13:16 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:236 - 
+==============================UPLOADING FILES==============================
+
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:238 - CHECKING ACCESS KEY
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:244 - 			AKIAJSVEZJ473PNAVRHA
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:246 - CHECKING SECRET ACCESS KEY
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:252 - 		DCxi6sDrkK0srHOLCPPBrek9YE6L2WFZyvA+b18a
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:254 - CHECKING BUCKET NAME
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:260 - 			harish
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:262 - CHECKING FILE/FOLDER PATH
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:268 - 		/Users/ink/Desktop/ZIP
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:270 - CHECKING REGION
+2017-06-12 22:13:16 INFO  AmazonS3FileUploader:296 - 				us-east-1
+2017-06-12 22:13:16 WARN  AmazonHttpClient:172 - Detected a possible problem with the current JVM version (1.6.0_65).  If you experience XML parsing problems using the SDK, try upgrading to a more recent JVM update.
+2017-06-12 22:13:21 INFO  AmazonS3FileUploader:319 - Creating New Bucket===>>harish
+2017-06-12 22:13:23 INFO  AmazonS3FileUploader:213 - Sorry Bucket harish is already Exist.Please Enter Other Name
+2017-06-12 22:13:37 INFO  AmazonS3FileUploader:319 - Creating New Bucket===>>censharemanohar
+2017-06-12 22:13:42 INFO  AmazonS3FileUploader:77 - Uploading File========1364153.zip At location 1364153.zip
+2017-06-12 22:13:44 INFO  AmazonS3FileUploader:338 - 
+==============================UPLOADED==========================================
+
+2017-06-12 22:13:44 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:13:54 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:13:54 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:13:54 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:14:04 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:14:04 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:14:04 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:14:14 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:14:14 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:14:14 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:14:24 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:14:24 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:14:24 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:14:34 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:14:34 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:14:34 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:14:44 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:14:44 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:14:44 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:14:54 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:14:54 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:14:54 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:15:04 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:15:04 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:15:04 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:15:14 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:15:14 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:15:14 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:15:24 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:15:24 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:15:24 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:15:34 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:15:34 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:15:34 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:15:44 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:15:44 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:15:44 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:15:54 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:15:54 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:15:54 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:16:04 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:16:04 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:16:04 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:16:14 INFO  UploaderTask:23 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-06-12 22:16:14 INFO  UploaderTask:25 - NO FILE AVAILABLE TO UPLOAD
+
+2017-06-12 22:16:14 INFO  UploaderTask:45 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-06-12 22:18:58 INFO  AmazonS3FileUploader:170 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-06-12 22:42:14 INFO  AmazonS3FileUploader:170 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-06-12 22:42:23 ERROR AmazonS3FileUploader:203 - 
+2017-06-12 22:47:28 ERROR AmazonS3FileUploader:203 - 
+2017-06-12 23:29:04 INFO  AmazonS3FileUploader:170 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-06-12 23:29:07 ERROR AmazonS3FileUploader:203 - 
+2017-06-12 23:30:58 INFO  AmazonS3FileUploader:170 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-06-12 23:31:00 ERROR AmazonS3FileUploader:203 - 

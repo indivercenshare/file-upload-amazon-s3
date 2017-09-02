@@ -1,0 +1,4 @@
+2017-06-12 22:12:22 ERROR AmazonS3FileUploader:333 - Bucket name should not contain uppercase characters
+2017-06-12 22:12:23 ERROR UploaderTask:50 - The specified bucket does not exist (Service: Amazon S3; Status Code: 404; Error Code: NoSuchBucket; Request ID: EAB36515863D7647)
+2017-06-12 23:29:07 ERROR AmazonS3FileUploader:203 - 
+2017-06-12 23:31:00 ERROR AmazonS3FileUploader:203 - 

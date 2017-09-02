@@ -1,0 +1,647 @@
+2017-07-28 16:38:33 INFO  AmazonS3FileUploader:191 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:38:36 ERROR AmazonS3FileUploader:224 - 
+2017-07-28 16:38:44 INFO  AmazonS3FileUploader:191 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:38:46 INFO  AmazonS3FileUploader:209 - You have choosen time unit in Seconds
+2017-07-28 16:38:46 INFO  AmazonS3FileUploader:210 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 16:38:48 INFO  AmazonS3FileUploader:234 - Please Enter Destination Path
+2017-07-28 16:39:00 INFO  AmazonS3FileUploader:234 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 16:39:04 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:265 - 			AKIAJSVEZJ473PNAVRHA
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:273 - 		DCxi6sDrkK0srHOLCPPBrek9YE6L2WFZyvA+b18a
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:281 - 			harish
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 16:39:04 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 16:39:06 ERROR AmazonS3FileUploader:354 - The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: EBBF7B374D9F492D)
+2017-07-28 16:39:06 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 16:39:08 ERROR UploaderTask:35 - The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: DAE2B8A703F1FCBE)
+2017-07-28 16:41:30 INFO  AmazonS3FileUploader:172 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:41:39 INFO  AmazonS3FileUploader:202 - Wrong Choice Entered
+2017-07-28 16:41:39 INFO  AmazonS3FileUploader:215 - Please Enter Destination Path
+2017-07-28 16:41:47 INFO  AmazonS3FileUploader:172 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:41:50 INFO  AmazonS3FileUploader:190 - You have choosen time unit in Seconds
+2017-07-28 16:41:50 INFO  AmazonS3FileUploader:191 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 16:41:51 INFO  AmazonS3FileUploader:215 - Please Enter Destination Path
+2017-07-28 16:42:08 INFO  AmazonS3FileUploader:215 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 16:42:10 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:238 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:240 - CHECKING ACCESS KEY
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:246 - 			AKIAJSVEZJ473PNAVRHA
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:248 - CHECKING SECRET ACCESS KEY
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:254 - 		DCxi6sDrkK0srHOLCPPBrek9YE6L2WFZyvA+b18a
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:256 - CHECKING BUCKET NAME
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:262 - 			harish
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:264 - CHECKING FILE/FOLDER PATH
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:270 - 		/Users/ink/Desktop/ZIP
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:272 - CHECKING REGION
+2017-07-28 16:42:10 INFO  AmazonS3FileUploader:298 - 				us-east-1
+2017-07-28 16:42:14 ERROR AmazonS3FileUploader:340 - The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: A5524DBD5F456ADF)
+2017-07-28 16:42:14 INFO  AmazonS3FileUploader:79 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 16:42:16 ERROR UploaderTask:52 - The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: 387FACC5545AC81F)
+2017-07-28 16:44:09 INFO  AmazonS3FileUploader:172 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:44:21 INFO  AmazonS3FileUploader:190 - You have choosen time unit in Seconds
+2017-07-28 16:44:21 INFO  AmazonS3FileUploader:191 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 16:44:22 INFO  AmazonS3FileUploader:215 - Please Enter Destination Path
+2017-07-28 16:44:38 INFO  AmazonS3FileUploader:215 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 16:44:42 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:238 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:240 - CHECKING ACCESS KEY
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:246 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:248 - CHECKING SECRET ACCESS KEY
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:254 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:256 - CHECKING BUCKET NAME
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:262 - 			harish
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:264 - CHECKING FILE/FOLDER PATH
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:270 - 		/Users/ink/Desktop/ZIP
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:272 - CHECKING REGION
+2017-07-28 16:44:42 INFO  AmazonS3FileUploader:298 - 				us-east-1
+2017-07-28 16:44:47 ERROR AmazonS3FileUploader:340 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: EABC31E6082A4FC6)
+2017-07-28 16:44:47 INFO  AmazonS3FileUploader:79 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 16:44:53 ERROR UploaderTask:52 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: D4E3EF7BA7382A3F)
+2017-07-28 16:45:29 INFO  AmazonS3FileUploader:172 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:45:34 INFO  AmazonS3FileUploader:190 - You have choosen time unit in Seconds
+2017-07-28 16:45:34 INFO  AmazonS3FileUploader:191 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 16:45:36 INFO  AmazonS3FileUploader:215 - Please Enter Destination Path
+2017-07-28 16:45:45 INFO  AmazonS3FileUploader:215 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 16:45:48 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:238 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:240 - CHECKING ACCESS KEY
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:246 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:248 - CHECKING SECRET ACCESS KEY
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:254 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:256 - CHECKING BUCKET NAME
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:262 - 			harish
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:264 - CHECKING FILE/FOLDER PATH
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:270 - 		/Users/ink/Desktop/ZIP
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:272 - CHECKING REGION
+2017-07-28 16:45:48 INFO  AmazonS3FileUploader:298 - 				us-east-1
+2017-07-28 16:49:04 ERROR AmazonS3FileUploader:340 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: 0E1A258D76EAEB2C)
+2017-07-28 16:49:04 INFO  AmazonS3FileUploader:79 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 16:49:09 ERROR UploaderTask:52 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: 89182BEC1B5BB01E)
+2017-07-28 16:49:23 INFO  AmazonS3FileUploader:172 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:49:27 INFO  AmazonS3FileUploader:190 - You have choosen time unit in Seconds
+2017-07-28 16:49:27 INFO  AmazonS3FileUploader:191 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 16:49:28 INFO  AmazonS3FileUploader:215 - Please Enter Destination Path
+2017-07-28 16:49:34 INFO  AmazonS3FileUploader:215 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 16:49:36 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:238 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:240 - CHECKING ACCESS KEY
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:246 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:248 - CHECKING SECRET ACCESS KEY
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:254 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:256 - CHECKING BUCKET NAME
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:262 - 			indiverkumarnewbucket
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:264 - CHECKING FILE/FOLDER PATH
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:270 - 		/Users/ink/Desktop/ZIP
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:272 - CHECKING REGION
+2017-07-28 16:49:36 INFO  AmazonS3FileUploader:298 - 				us-east-1
+2017-07-28 16:50:09 ERROR AmazonS3FileUploader:340 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: 277812FA0699B14A)
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:238 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:240 - CHECKING ACCESS KEY
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:246 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:248 - CHECKING SECRET ACCESS KEY
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:254 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:256 - CHECKING BUCKET NAME
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:262 - 			indiverkumarnewbucket
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:264 - CHECKING FILE/FOLDER PATH
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:270 - 		/Users/ink/Desktop/ZIP
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:272 - CHECKING REGION
+2017-07-28 16:50:42 INFO  AmazonS3FileUploader:298 - 				us-east-1
+2017-07-28 16:50:45 ERROR AmazonS3FileUploader:339 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: 407B58BEECDD75F4)
+2017-07-28 16:50:45 INFO  AmazonS3FileUploader:343 - 
+==============================UPLOADED==========================================
+
+2017-07-28 16:50:45 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:50:55 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:50:55 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:50:55 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:51:05 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:51:05 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:51:05 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:51:15 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:51:15 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:51:15 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:51:25 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:51:25 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:51:25 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:51:35 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:51:35 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:51:35 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:52:18 INFO  AmazonS3FileUploader:172 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:52:28 INFO  AmazonS3FileUploader:190 - You have choosen time unit in Seconds
+2017-07-28 16:52:28 INFO  AmazonS3FileUploader:191 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 16:52:31 INFO  AmazonS3FileUploader:215 - Please Enter Destination Path
+2017-07-28 16:52:51 INFO  AmazonS3FileUploader:215 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 16:52:54 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:52:54 INFO  AmazonS3FileUploader:238 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 16:52:56 INFO  AmazonS3FileUploader:326 - Creating New Bucket===>>acbbindiver
+2017-07-28 16:52:57 INFO  AmazonS3FileUploader:79 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 16:52:58 INFO  AmazonS3FileUploader:343 - 
+==============================UPLOADED==========================================
+
+2017-07-28 16:52:58 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:53:08 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:53:08 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:53:08 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:55:53 INFO  AmazonS3FileUploader:172 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 16:55:56 INFO  AmazonS3FileUploader:190 - You have choosen time unit in Seconds
+2017-07-28 16:55:56 INFO  AmazonS3FileUploader:191 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 16:55:57 INFO  AmazonS3FileUploader:215 - Please Enter Destination Path
+2017-07-28 16:56:17 INFO  AmazonS3FileUploader:215 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 16:56:21 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:238 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:240 - CHECKING ACCESS KEY
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:246 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:248 - CHECKING SECRET ACCESS KEY
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:254 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:256 - CHECKING BUCKET NAME
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:262 - 			indiverkumarnewbucket
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:264 - CHECKING FILE/FOLDER PATH
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:270 - 		/Users/ink/Desktop/ZIP
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:272 - CHECKING REGION
+2017-07-28 16:56:21 INFO  AmazonS3FileUploader:298 - 				us-east-1
+2017-07-28 16:56:24 INFO  AmazonS3FileUploader:326 - Creating New Bucket===>>indiverkumarnewbucket
+2017-07-28 16:56:27 INFO  AmazonS3FileUploader:79 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 16:56:28 INFO  AmazonS3FileUploader:343 - 
+==============================UPLOADED==========================================
+
+2017-07-28 16:56:28 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:56:38 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:56:38 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:56:38 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:56:48 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:56:48 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:56:48 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:56:58 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:56:58 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:56:58 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 16:57:08 INFO  UploaderTask:25 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 16:57:08 INFO  UploaderTask:27 - NO FILE AVAILABLE TO UPLOAD
+
+2017-07-28 16:57:08 INFO  UploaderTask:47 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:00:02 INFO  AmazonS3FileUploader:191 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 17:00:06 INFO  AmazonS3FileUploader:209 - You have choosen time unit in Seconds
+2017-07-28 17:00:06 INFO  AmazonS3FileUploader:210 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 17:00:09 INFO  AmazonS3FileUploader:234 - Please Enter Destination Path
+2017-07-28 17:00:40 INFO  AmazonS3FileUploader:234 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 17:00:44 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:281 - 			indiverkumarnewbucket
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:00:44 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:00:47 INFO  AmazonS3FileUploader:333 - Using Existing Bucketindiverkumarnewbucket
+2017-07-28 17:00:47 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:00:49 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:00:49 INFO  AmazonS3FileUploader:105 - Moving File====== test-amazon-move.zip Status=>>> true
+2017-07-28 17:00:49 INFO  AmazonS3FileUploader:359 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:00:49 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:09:01 INFO  AmazonS3FileUploader:191 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 17:09:34 INFO  AmazonS3FileUploader:191 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 17:09:37 INFO  AmazonS3FileUploader:209 - You have choosen time unit in Seconds
+2017-07-28 17:09:37 INFO  AmazonS3FileUploader:210 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 17:09:39 INFO  AmazonS3FileUploader:234 - Please Enter Destination Path
+2017-07-28 17:09:56 INFO  AmazonS3FileUploader:234 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 17:10:02 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:281 - 			indiverkumarnewbucket
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:10:02 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:10:03 WARN  AmazonHttpClient:172 - Detected a possible problem with the current JVM version (1.6.0_65).  If you experience XML parsing problems using the SDK, try upgrading to a more recent JVM update.
+2017-07-28 17:10:06 INFO  AmazonS3FileUploader:333 - Using Existing Bucketindiverkumarnewbucket
+2017-07-28 17:10:06 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:10:09 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:10:09 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:10:09 INFO  AmazonS3FileUploader:360 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:10:09 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:10:19 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:281 - 			indiverkumarnewbucket
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:10:19 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:10:20 INFO  AmazonS3FileUploader:333 - Using Existing Bucketindiverkumarnewbucket
+2017-07-28 17:10:20 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:10:22 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:10:22 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:10:22 INFO  AmazonS3FileUploader:360 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:10:22 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:10:32 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:281 - 			indiverkumarnewbucket
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:10:32 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:10:34 INFO  AmazonS3FileUploader:333 - Using Existing Bucketindiverkumarnewbucket
+2017-07-28 17:10:34 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:11:35 INFO  AmazonS3FileUploader:191 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 17:11:38 INFO  AmazonS3FileUploader:209 - You have choosen time unit in Seconds
+2017-07-28 17:11:38 INFO  AmazonS3FileUploader:210 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 17:11:44 INFO  AmazonS3FileUploader:234 - Please Enter Destination Path
+2017-07-28 17:11:52 INFO  AmazonS3FileUploader:234 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 17:12:03 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:281 - 			indiverkumarnewbucket
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:12:03 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:12:03 WARN  AmazonHttpClient:172 - Detected a possible problem with the current JVM version (1.6.0_65).  If you experience XML parsing problems using the SDK, try upgrading to a more recent JVM update.
+2017-07-28 17:12:06 INFO  AmazonS3FileUploader:333 - Using Existing Bucketindiverkumarnewbucket
+2017-07-28 17:12:06 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:12:09 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:12:09 INFO  AmazonS3FileUploader:105 - Moving File====== test-amazon-move.zip Status=>>> true
+2017-07-28 17:12:09 INFO  AmazonS3FileUploader:360 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:12:09 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:12:56 INFO  AmazonS3FileUploader:191 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 17:12:58 INFO  AmazonS3FileUploader:209 - You have choosen time unit in Seconds
+2017-07-28 17:12:58 INFO  AmazonS3FileUploader:210 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 17:13:00 INFO  AmazonS3FileUploader:234 - Please Enter Destination Path
+2017-07-28 17:13:16 INFO  AmazonS3FileUploader:234 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 17:13:19 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:281 - 			chandarbucket
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:13:19 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:13:20 WARN  AmazonHttpClient:172 - Detected a possible problem with the current JVM version (1.6.0_65).  If you experience XML parsing problems using the SDK, try upgrading to a more recent JVM update.
+2017-07-28 17:13:23 INFO  AmazonS3FileUploader:340 - Creating New Bucket===>>chandarbucket
+2017-07-28 17:13:25 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:13:26 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:13:26 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:13:26 INFO  AmazonS3FileUploader:360 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:13:26 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:13:36 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:281 - 			chandarbucket
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:13:36 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:13:37 INFO  AmazonS3FileUploader:333 - Using Existing Bucketchandarbucket
+2017-07-28 17:13:37 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:13:39 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:13:39 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:13:39 INFO  AmazonS3FileUploader:360 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:13:39 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:13:49 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:281 - 			chandarbucket
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:13:49 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:13:51 INFO  AmazonS3FileUploader:333 - Using Existing Bucketchandarbucket
+2017-07-28 17:13:51 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:13:53 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:13:53 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:13:53 INFO  AmazonS3FileUploader:360 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:13:53 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:14:03 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:281 - 			chandarbucket
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:14:03 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:14:05 INFO  AmazonS3FileUploader:333 - Using Existing Bucketchandarbucket
+2017-07-28 17:14:05 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:14:07 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:14:07 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:14:07 INFO  AmazonS3FileUploader:360 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:14:07 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:14:17 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:281 - 			chandarbucket
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:14:17 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:14:20 INFO  AmazonS3FileUploader:333 - Using Existing Bucketchandarbucket
+2017-07-28 17:14:20 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:14:23 INFO  AmazonS3FileUploader:102 - Moving File====== test-amazon-move.zip
+2017-07-28 17:14:23 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:14:23 INFO  AmazonS3FileUploader:360 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:14:23 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:14:33 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:257 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:259 - CHECKING ACCESS KEY
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:265 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:267 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:273 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:275 - CHECKING BUCKET NAME
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:281 - 			chandarbucket
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:283 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:289 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:291 - CHECKING REGION
+2017-07-28 17:14:33 INFO  AmazonS3FileUploader:317 - 				us-east-1
+2017-07-28 17:27:37 INFO  AmazonS3FileUploader:212 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 17:27:40 INFO  AmazonS3FileUploader:230 - You have choosen time unit in Seconds
+2017-07-28 17:27:40 INFO  AmazonS3FileUploader:231 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 17:27:42 INFO  AmazonS3FileUploader:255 - Please Enter Destination Path
+2017-07-28 17:27:56 INFO  AmazonS3FileUploader:255 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 17:27:58 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:278 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:280 - CHECKING ACCESS KEY
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:286 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:288 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:294 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:296 - CHECKING BUCKET NAME
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:302 - 			atulbucket
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:304 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:310 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:312 - CHECKING REGION
+2017-07-28 17:27:58 INFO  AmazonS3FileUploader:338 - 				us-east-1
+2017-07-28 17:27:59 WARN  AmazonHttpClient:172 - Detected a possible problem with the current JVM version (1.6.0_65).  If you experience XML parsing problems using the SDK, try upgrading to a more recent JVM update.
+2017-07-28 17:28:02 INFO  AmazonS3FileUploader:361 - Creating New Bucket===>>atulbucket
+2017-07-28 17:28:03 ERROR AmazonS3FileUploader:377 - Bad Request (Service: Amazon S3; Status Code: 400; Error Code: 400 Bad Request; Request ID: 10655C25FA3F6B87)
+2017-07-28 17:28:03 INFO  AmazonS3FileUploader:381 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:28:03 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:28:13 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:278 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:280 - CHECKING ACCESS KEY
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:286 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:288 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:294 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:296 - CHECKING BUCKET NAME
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:302 - 			atulbucket
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:304 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:310 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:312 - CHECKING REGION
+2017-07-28 17:28:13 INFO  AmazonS3FileUploader:338 - 				us-east-1
+2017-07-28 17:28:15 INFO  AmazonS3FileUploader:361 - Creating New Bucket===>>atulbucket
+2017-07-28 17:28:15 ERROR AmazonS3FileUploader:377 - Bad Request (Service: Amazon S3; Status Code: 400; Error Code: 400 Bad Request; Request ID: 0EE1DEAD06821160)
+2017-07-28 17:28:15 INFO  AmazonS3FileUploader:381 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:28:15 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:28:25 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:278 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:280 - CHECKING ACCESS KEY
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:286 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:288 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:294 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:296 - CHECKING BUCKET NAME
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:302 - 			atulbucket
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:304 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:310 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:312 - CHECKING REGION
+2017-07-28 17:28:25 INFO  AmazonS3FileUploader:338 - 				us-east-1
+2017-07-28 17:28:26 INFO  AmazonS3FileUploader:361 - Creating New Bucket===>>atulbucket
+2017-07-28 17:28:27 ERROR AmazonS3FileUploader:377 - Bad Request (Service: Amazon S3; Status Code: 400; Error Code: 400 Bad Request; Request ID: A02475D89997C141)
+2017-07-28 17:28:27 INFO  AmazonS3FileUploader:381 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:28:27 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+
+2017-07-28 17:29:05 INFO  AmazonS3FileUploader:192 - Please enter the Time unit
+1. Press 1 for Hours
+2. Press 2 for Minutes
+3. Press 3 for Seconds
+4. Press 4 for Miliseconds
+2017-07-28 17:29:07 INFO  AmazonS3FileUploader:210 - You have choosen time unit in Seconds
+2017-07-28 17:29:07 INFO  AmazonS3FileUploader:211 - Please Enter No of Seconds[Please Enter numerical values only]
+2017-07-28 17:29:09 INFO  AmazonS3FileUploader:235 - Please Enter Destination Path
+2017-07-28 17:30:03 INFO  AmazonS3FileUploader:235 - Please Enter File Types Seperated By Commas like *.rar,*.zip or *.*
+2017-07-28 17:30:32 INFO  UploaderTask:22 - *****************************UPLOADING OPERATION SCHEDULAR STARTING**************************
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:258 - 
+==============================UPLOADING FILES==============================
+
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:260 - CHECKING ACCESS KEY
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:266 - 			AKIAJ4QYVOXOK7CJD3BA
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:268 - CHECKING SECRET ACCESS KEY
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:274 - 		ScHBfhfjcdXEyUYoXAqpzNao4PhMibTdZz46IUO+
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:276 - CHECKING BUCKET NAME
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:282 - 			rajdhaniexpress
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:284 - CHECKING FILE/FOLDER PATH
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:290 - 		/Users/ink/Desktop/ZIP
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:292 - CHECKING REGION
+2017-07-28 17:30:32 INFO  AmazonS3FileUploader:318 - 				us-east-1
+2017-07-28 17:30:32 WARN  AmazonHttpClient:172 - Detected a possible problem with the current JVM version (1.6.0_65).  If you experience XML parsing problems using the SDK, try upgrading to a more recent JVM update.
+2017-07-28 17:30:35 INFO  AmazonS3FileUploader:341 - Creating New Bucket===>>rajdhaniexpress
+2017-07-28 17:30:38 INFO  AmazonS3FileUploader:78 - Uploading File========test-amazon-move.zip At location test-amazon-move.zip
+2017-07-28 17:30:39 INFO  AmazonS3FileUploader:103 - Moving File====== test-amazon-move.zip
+2017-07-28 17:30:39 INFO  AmazonS3FileUploader:106 - Moving File====== test-amazon-move.zip Status=>>> true
+2017-07-28 17:30:39 INFO  AmazonS3FileUploader:361 - 
+==============================UPLOADED==========================================
+
+2017-07-28 17:30:39 INFO  UploaderTask:30 - **************************************UPLOADING OPERATION SCHEDULAR ENDING*****************************************
+

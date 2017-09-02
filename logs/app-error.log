@@ -1,0 +1,20 @@
+2017-07-28 16:39:06 ERROR AmazonS3FileUploader:354 - The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: EBBF7B374D9F492D)
+2017-07-28 16:39:08 ERROR UploaderTask:35 - The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: DAE2B8A703F1FCBE)
+2017-07-28 16:42:14 ERROR AmazonS3FileUploader:340 - The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: A5524DBD5F456ADF)
+2017-07-28 16:42:16 ERROR UploaderTask:52 - The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: 387FACC5545AC81F)
+2017-07-28 16:44:47 ERROR AmazonS3FileUploader:340 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: EABC31E6082A4FC6)
+2017-07-28 16:44:53 ERROR UploaderTask:52 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: D4E3EF7BA7382A3F)
+2017-07-28 16:49:04 ERROR AmazonS3FileUploader:340 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: 0E1A258D76EAEB2C)
+2017-07-28 16:49:09 ERROR UploaderTask:52 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: 89182BEC1B5BB01E)
+2017-07-28 16:50:09 ERROR AmazonS3FileUploader:340 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: 277812FA0699B14A)
+2017-07-28 16:50:45 ERROR AmazonS3FileUploader:339 - The request signature we calculated does not match the signature you provided. Check your key and signing method. (Service: Amazon S3; Status Code: 403; Error Code: SignatureDoesNotMatch; Request ID: 407B58BEECDD75F4)
+2017-07-28 17:10:09 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:10:22 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:13:26 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:13:39 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:13:53 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:14:07 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:14:23 ERROR AmazonS3FileUploader:108 - Some Problem Occured While Moving test-amazon-move.zip
+2017-07-28 17:28:03 ERROR AmazonS3FileUploader:377 - Bad Request (Service: Amazon S3; Status Code: 400; Error Code: 400 Bad Request; Request ID: 10655C25FA3F6B87)
+2017-07-28 17:28:15 ERROR AmazonS3FileUploader:377 - Bad Request (Service: Amazon S3; Status Code: 400; Error Code: 400 Bad Request; Request ID: 0EE1DEAD06821160)
+2017-07-28 17:28:27 ERROR AmazonS3FileUploader:377 - Bad Request (Service: Amazon S3; Status Code: 400; Error Code: 400 Bad Request; Request ID: A02475D89997C141)
