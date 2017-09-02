@@ -31,5 +31,7 @@ public class Test {
 		System.out.println("Test-featuream4");
 		System.out.println("Test-featurelok");
 		System.out.println("Test-featurelok");
+		System.out.println("Test-amrinder");
+		System.out.println("Test-amrinder2");
 	}
 }
